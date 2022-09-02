@@ -1,0 +1,4 @@
+JWT = web token
+JWT TOKEN EXPIRATION defaultnya milisekon, kalau mau per detik/hari tambahkan huruf 's' atau 'd'
+jwtexpiration = 60s //detik
+jwtexpiration = 30d //hari
